@@ -1,11 +1,11 @@
 {
-  "name": "catCrm",
+  "name": "catcrm",
   "private": true,
   "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/carCrm/",
+    "build": "vite build --base=/carcrm/",
     "preview": "vite preview",
     "watch": "npx vite build --watch"
   },
